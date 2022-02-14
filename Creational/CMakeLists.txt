@@ -3,3 +3,4 @@ project(cpp_design_patterns)
 
 add_subdirectory(Singelton)
 add_subdirectory(FactoryMethod)
+add_subdirectory(AbstractFactory)
