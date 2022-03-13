@@ -3,4 +3,4 @@ project(cpp_design_patterns)
 
 # main configuration 
 add_executable(strategy strategy.cpp)
-set_target_properties (strategy PROPERTIES FOLDER "01.Behaviorals")
+set_target_properties (strategy PROPERTIES FOLDER "01.Behavioral")
